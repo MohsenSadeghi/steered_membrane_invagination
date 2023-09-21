@@ -1,4 +1,4 @@
-# Steered simulation of Membrane Invagination
+# Steered Simulation of Membrane Invagination
 
 This repository holds the Jupyter notebooks used for the analysis of steered molecular dynamics simulations of the formation of membrane invaginations by curvature-inducing proteins.
 
